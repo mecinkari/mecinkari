@@ -1,4 +1,23 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+# Hey there
+Welcome to my Github profile. My real name is **Muhammad Anugrah Pratama**, but you can call me **Mecinkari** 😉. I'm a beginner web programmer and a digital illustrator. Using Github so I can archive my code projects.
+
+Currently, I'm learning:
+- Go
+- C
+- Python
+- JavaScript
+- PHP
+
+And some frameworks too, like:
+- Vue | NuxtJS
+- React | NextJS
+- Svelte
+- Laravel
+- Polymer 
+
+---
 
 <!--
 **mecinkari/mecinkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
